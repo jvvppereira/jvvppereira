@@ -1,4 +1,5 @@
-![Header](./new-github-header-image.png)
+<a href="https://github.com/jvvppereira">![Header](./new-github-header-image.png)
+</a>
 
 My name is João Vítor, and I'm from Brazil (🇧🇷). I've been working as Full Stack Developer since 2016. Actually I work as a Software Architect at Philips.
 
@@ -56,9 +57,8 @@ Here are some ideas to get you started:
 -->
 
 <p>
-<a href="https://github.com/jvvppereira">
-<img width="49%" title="Redirect's to João's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=jvvppereira&theme=dark" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvvppereira&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" />
+<a href="https://github.com/jvvppereira"><img width="49%" title="Redirect's to João's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=jvvppereira&theme=dark" /></a>
+<a href="https://github.com/jvvppereira"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvvppereira&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></a>
 </p>
 
 <!--
@@ -70,3 +70,13 @@ Here are some ideas to get you started:
 
 <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 --> 
+
+## **Contact me** 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-vieira-paes-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://flowcv.me/joao" target="_blank"><img src="https://img.shields.io/badge/Site-blue?logo=telegram&logoColor=white" ></a>
+<a href="mailto:joao.vitor.paes@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?logo=maildotru" ></a>
+<a href="https://www.freecodecamp.org/jvvppereira" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-blue?logo=freecodecamp" ></a>
+<a href="https://www.hackerrank.com/profile/joaaovitoor01" target="_blank"><img src="https://img.shields.io/badge/HackerRank-blue?logo=hackerrank&logoColor=white" ></a>
+<a href="https://leetcode.com/jvvppereira/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-blue?logo=leetcode&logoColor=white" ></a>
+
+
