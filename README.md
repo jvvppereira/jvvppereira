@@ -1,4 +1,4 @@
-## Hi there 👋
+![Header](./github-header-image.png)
 
 My name is João Vítor, and I'm from Brazil (🇧🇷). I've been working as Full Stack Developer since 2016. Actually I work as a Software Architect at Philips.
 
