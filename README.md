@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 <a href="https://flowcv.me/joao" target="_blank"><img src="https://img.shields.io/badge/Site-blue?logo=telegram&logoColor=white" ></a>
 <a href="mailto:joao.vitor.paes@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?logo=maildotru" ></a>
 <a href="https://www.freecodecamp.org/jvvppereira" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-blue?logo=freecodecamp" ></a>
-<a href="https://www.hackerrank.com/profile/joaaovitoor01" target="_blank"><img src="https://img.shields.io/badge/HackerRank-blue?logo=hackerrank&logoColor=white" ></a>
+<a href="https://www.hackerrank.com/profile/joao_paes" target="_blank"><img src="https://img.shields.io/badge/HackerRank-blue?logo=hackerrank&logoColor=white" ></a>
 <a href="https://leetcode.com/jvvppereira/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-blue?logo=leetcode&logoColor=white" ></a>
 
 
