@@ -1,7 +1,7 @@
 <a href="https://github.com/jvvppereira">![Header](./new-github-header-image.png)
 </a>
 
-My name is João Vítor, and I'm from Brazil (🇧🇷). I've been working as Full Stack Developer since 2016. Currently, working as a Software Architect at Philips.
+My name is João Vítor, and I'm Brazilian (🇧🇷). I've been working as Full Stack Developer since 2016. Currently, working as a Software Architect at Philips.
 
 <!--
 **jvvppereira/jvvppereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
