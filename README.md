@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 --> 
 
 ## **Contact me** 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-vieira-paes-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/joao-vitor-paes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://flowcv.me/joao" target="_blank"><img src="https://img.shields.io/badge/Site-blue?logo=telegram&logoColor=white" ></a>
 <a href="mailto:joao.vitor.paes@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?logo=maildotru" ></a>
 <a href="https://www.freecodecamp.org/jvvppereira" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-blue?logo=freecodecamp" ></a>
