@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 <p>
 <a href="https://github.com/jvvppereira"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvvppereira&show_icons=true&locale=en&layout=compact&theme=dark" alt="ovi" /></a>
-<a href="https://github.com/jvvppereira"><img width="49%" title="Redirect's to João's Github" src="https://github-readme-streak-stats.herokuapp.com/?user=jvvppereira&theme=dark" /></a>
+<a href="https://github.com/jvvppereira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvvppereira&theme=dark" alt="Redirect's to João's Github" /></a>
 </p>
 
 <!--
