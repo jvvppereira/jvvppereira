@@ -60,6 +60,8 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/jvvppereira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvvppereira&theme=dark" alt="Redirect's to João's Github" /></a> -->
 <a href="https://github.com/jvvppereira"><img src="https://streak-stats.demolab.com?user=jvvppereira&theme=dark" alt="Redirect's to João's Github" /></a>
 </p>
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=jvvppereira&theme=dark)](https://git.io/streak-stats)
 
 <!--
 <a href="https://www.linkedin.com/in/dhanushkamadushan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
