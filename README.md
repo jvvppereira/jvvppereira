@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
   <a href="https://github.com/jvvppereira">
-    <img src="https://skillicons.dev/icons?i=js,java,nodejs,express,heroku,vercel,mysql,git,github,gitlab,vuejs,angular,html,css,bash,vscode,idea,visualstudio,cpp,powershell" />
+    <img src="https://skillicons.dev/icons?i=js,java,nodejs,express,heroku,vercel,mysql,git,github,gitlab,vuejs,angular,html,css,sass,jest,d3,sequelize,jenkins,bash,vscode,idea,visualstudio,cpp,powershell" />
   </a>
 
 <!--
