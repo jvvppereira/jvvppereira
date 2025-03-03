@@ -1,5 +1,8 @@
-<a href="https://github.com/jvvppereira">![Header](./new-github-header-image.png)
+<!--<a href="https://github.com/jvvppereira">![Header](./new-github-header-image.png)
 </a>
+-->
+![backgound](https://github.com/user-attachments/assets/1559b789-3311-4669-8dd4-6a8015569708)
+
 
 My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full Stack Developer since 2013. Currently, working as a Software Development Analyst @ Philips.
 
