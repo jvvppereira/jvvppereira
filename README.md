@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <p>
 <!-- <a href="https://github.com/jvvppereira"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jvvppereira&theme=dark" alt="Redirect's to João's Github" /></a> -->
 <!-- <a href="https://github.com/jvvppereira"><img width="420px" src="https://streak-stats.demolab.com?user=jvvppereira&theme=dark" alt="Redirect's to João's Github" /></a> -->
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/demo/preview.php?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="João's Streaks"/></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img src="https://streak-stats.demolab.com/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="João's Streaks [to be hosted by myself]"/></a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvvppereira&show_icons=true&locale=en&layout=compact&theme=dark" alt="João's Stats [to be hosted by myself]" /></a>
 </p>
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=jvvppereira&theme=dark)](https://git.io/streak-stats) -->
