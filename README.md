@@ -11,7 +11,7 @@ My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full 
 
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats-git-vercel-jvvppereiras-projects.vercel.app/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="João's Streaks"/>
+    <img src="https://github-readme-streak-stats-sigma-ashen-28.vercel.app/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="João's Streaks"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jvvppereira&show_icons=true&locale=en&layout=compact&theme=dark" alt="João's Stats [to be hosted by myself]" />
