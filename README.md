@@ -4,7 +4,7 @@ My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full 
 
 ## **Languages and Tools**
 <a href="https://github.com/jvvppereira">
-  <img src="https://skillicons.dev/icons?i=js,java,nodejs,express,heroku,vercel,mysql,git,github,gitlab,vuejs,angular,html,css,sass,jest,d3,sequelize,jenkins,bash,vscode,idea,visualstudio,cpp,powershell,cs" />
+  <img src="https://skillicons.dev/icons?i=js,java,nodejs,express,heroku,vercel,mysql,git,github,gitlab,vuejs,angular,html,css,sass,jest,d3,sequelize,jenkins,bash,vscode,idea,visualstudio,cpp,powershell,cs,gherkin,postman" />
 </a>
 
 ## **GitHub Stats** 
