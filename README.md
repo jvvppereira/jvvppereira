@@ -2,7 +2,7 @@
 
 My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full Stack Developer since 2013. Currently, working as a Software Development Analyst @ Philips.
 
-## **Technologies I have experience of using**
+## **Technologies I have experience with**
 <a href="https://github.com/jvvppereira">
   <img src="https://skillicons.dev/icons?i=js,java,nodejs,express,heroku,vercel,mysql,git,github,gitlab,vuejs,angular,html,css,sass,jest,d3,sequelize,jenkins,bash,vscode,idea,visualstudio,cpp,powershell,cs,gherkin,postman" />
 </a>
