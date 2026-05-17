@@ -9,7 +9,7 @@ My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full 
 
 ## **Technologies I'm improving**
 <a href="https://github.com/jvvppereira">
-  <img src="https://skillicons.dev/icons?i=spring,py,go,nestjs,aws,docker,prisma,mongo,postgres,supabase,vite,react,redux,electron,wasm,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=spring,py,flask,django,go,nestjs,aws,docker,prisma,mongo,postgres,supabase,vite,react,redux,electron,wasm,ubuntu" />
 </a>
 
 ## **GitHub Stats** 
