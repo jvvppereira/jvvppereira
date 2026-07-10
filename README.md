@@ -16,8 +16,10 @@ My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full 
 <a href="https://github.com/jvvppereira/github-readme-stats" target="_blank"><img src="https://github-readme-stats-ebon-nu-98.vercel.app/api/top-langs?username=jvvppereira&theme=dark&layout=compact&size_weight=0.5&count_weight=1&langs_count=7&hide=html,css" alt="João's Stats" /></a>
 <a href="https://github.com/jvvppereira/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats-sigma-ashen-28.vercel.app/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190" alt="João's Streaks"/></a>
 
+<!--
 ## **FreeCodeCamp Stats** 
-<a href="https://github.com/jvvppereira/free-code-camp-streak-nodejs" target="_blank"><img src="https://free-code-camp-streak-nodejs.vercel.app/streak?username=jvvppereira&width=400" alt="João's Stats" /></a>
+<a href="https://github.com/jvvppereira/free-code-camp-streak-nodejs" target="_blank"><img src="https://free-code-camp-streak-nodejs.vercel.app/streak?username=jvvppereira&width=400" alt="João's Stats" /></a> 
+-->
 
 ## **Contact me** 
 <a href="https://www.linkedin.com/in/joao-vitor-paes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
