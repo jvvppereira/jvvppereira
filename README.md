@@ -14,7 +14,8 @@ My name is João Vítor. I'm Brazilian (🇧🇷) and I've been working as Full 
 
 ## **GitHub Stats** 
 <a href="https://github.com/jvvppereira/github-readme-stats" target="_blank"><img src="https://github-readme-stats-ebon-nu-98.vercel.app/api/top-langs?username=jvvppereira&theme=dark&layout=compact&size_weight=0.5&count_weight=1&langs_count=7&hide=html,css" alt="João's Stats" /></a>
-<a href="https://github.com/jvvppereira/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats-sigma-ashen-28.vercel.app/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190" alt="João's Streaks"/></a>
+<a href="https://github.com/jvvppereira/github-readme-streak-stats-js" target="_blank"><img src="https://github-readme-streak-stats-js.vercel.app/?user=jvvppereira&theme=dark&mode=weekly&date_format=D%20MMM%20YYYY" alt="João's Streaks"/></a>
+<!-- <a href="https://github.com/jvvppereira/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats-sigma-ashen-28.vercel.app/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190" alt="João's Streaks"/></a> -->
 
 <!--
 ## **FreeCodeCamp Stats** 
