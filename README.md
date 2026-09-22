@@ -23,7 +23,7 @@ My name is João Vítor, but you can call me John. I'm Brazilian (🇧🇷) and 
 -->
 
 ## **Contact me** 
-<a href="https://www.linkedin.com/in/joao-vitor-paes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=sociale&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/joao-vitor-paes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAwMS0yLjA2My0yLjA2NSAyLjA2NCAyLjA2NCAwIDExMi4wNjMgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=white" alt="LinkedIn"></a>
 <a href="https://flowcv.me/joao" target="_blank"><img src="https://img.shields.io/badge/Site-blue?logo=telegram&logoColor=white" ></a>
 <a href="mailto:joao.vitor.paes@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-blue?logo=maildotru" ></a>
 <a href="https://www.freecodecamp.org/jvvppereira" target="_blank"><img src="https://img.shields.io/badge/FreeCodeCamp-blue?logo=freecodecamp" ></a>
