@@ -1,6 +1,6 @@
 ![backgound](https://github.com/user-attachments/assets/1559b789-3311-4669-8dd4-6a8015569708)
 
-My name is João Vítor, but you can call me John. I'm Brazilian (🇧🇷) and have been working as a full stack developer since 2013. Currently, I'm working as a Senior Software Engineer @ Philips.
+My name is João Vítor, but you can call me "John". I'm Brazilian (🇧🇷) and have been working as a full stack developer since 2013. Currently, I'm working as a Senior Software Engineer @ Philips.
 
 ## **Technologies I have experience with**
 <a href="https://github.com/jvvppereira">
