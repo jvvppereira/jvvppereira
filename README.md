@@ -16,7 +16,7 @@ My name is João Vítor, but you can call me "John". I'm Brazilian (🇧🇷) an
 <a href="https://github.com/jvvppereira/github-readme-stats" target="_blank"><img src="https://github-readme-stats-ebon-nu-98.vercel.app/api/top-langs?username=jvvppereira&theme=dark&layout=compact&size_weight=0.5&count_weight=0.5&langs_count=7&hide=html,css,jupyter%20notebook,objective-c" alt="João's Stats" /></a>
 <a href="https://github.com/jvvppereira/github-readme-streak-stats-js" target="_blank"><img src="https://github-readme-streak-stats-js.vercel.app/?user=jvvppereira&theme=dark&mode=weekly&date_format=D%20MMM%20YYYY" alt="João's Streaks"/></a>
 <!-- <a href="https://github.com/jvvppereira/github-readme-streak-stats" target="_blank"><img src="https://github-readme-streak-stats-sigma-ashen-28.vercel.app/?user=jvvppereira&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly&card_height=190" alt="João's Streaks"/></a> -->
-
+[![Career trail](https://github-timeline.frangolab.com/embed/jvvppereira/trilha.svg?paleta=verde&lang=en)](https://github-timeline.frangolab.com/u/jvvppereira?lang=en)
 <!--
 ## **FreeCodeCamp Stats** 
 <a href="https://github.com/jvvppereira/free-code-camp-streak-nodejs" target="_blank"><img src="https://free-code-camp-streak-nodejs.vercel.app/streak?username=jvvppereira&width=400" alt="João's Stats" /></a> 
